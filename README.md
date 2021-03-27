@@ -12,3 +12,7 @@ French translations for [Pimitchu](https://www.twitch.tv/pimitchu) player of Gar
 4. Start the game, select `FR` in the menu of available languages ​​from the `Localization` button at the bottom left of the home screen. And validate.
 5. Start the game, select `FR` in the menu of available languages ​​from the `Localization` button at the bottom left of the home screen. Validate, the game must be translated otherwise start over from step 1.
 6. Enjoy ! 😄😎
+
+# Did you find an error in the translations?
+
+Open an issue to indicate it so that it can be corrected. And if you know how to do, propose a Pull Request to contribute! Thank you
