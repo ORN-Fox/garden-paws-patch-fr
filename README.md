@@ -1,2 +1,3 @@
-# garden-paws-patch-fr
-French translations for Pimitchu player of Garden Paws game
+# Garden Paws - Patch FR
+
+French translations for [Pimitchu](https://www.twitch.tv/pimitchu) player of Garden Paws game
