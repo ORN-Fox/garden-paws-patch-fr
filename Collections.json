@@ -1,1 +1,22 @@
-{"c_piecesofpast.Name":"Pieces of the Past","c_piecesofpast2.Name":"Pieces of the Past II","c_daisies.Name":"Daisy Flower Collection","c_hydrangeas.Name":"Hydrangea Flower Collection","c_cosmos.Name":"Cosmos Flower Collection","c_leaves.Name":"Leaf Flower Collection","c_dandelions.Name":"Dandelion Flower Collection","c_rareflowers.Name":"Rare Flower Collection","c_gems.Name":"Gem Collection","c_raregems.Name":"Rare Gem Collection","c_fallenstar.Name":"Fallen Star Collection","c_animalproducts.Name":"Animal Product Collection","c_ores.Name":"Metal Ore Collection","c_furs.Name":"Fur Collection","c_feathers.Name":"Feather Collection","c_minerals.Name":"Rocks and Minerals Collection","c_spring.Name":"Spring Collection","c_paintingmap.Name":"Map of Florens","c_paintingsadcat.Name":"Portrait of a Sad Cat","c_paintings.Name":"Collection of Paintings"}
+{
+  "c_piecesofpast.Name": "Pieces of the Past",
+  "c_piecesofpast2.Name": "Pieces of the Past II",
+  "c_daisies.Name": "Daisy Flower Collection",
+  "c_hydrangeas.Name": "Hydrangea Flower Collection",
+  "c_cosmos.Name": "Cosmos Flower Collection",
+  "c_leaves.Name": "Leaf Flower Collection",
+  "c_dandelions.Name": "Dandelion Flower Collection",
+  "c_rareflowers.Name": "Rare Flower Collection",
+  "c_gems.Name": "Gem Collection",
+  "c_raregems.Name": "Rare Gem Collection",
+  "c_fallenstar.Name": "Fallen Star Collection",
+  "c_animalproducts.Name": "Animal Product Collection",
+  "c_ores.Name": "Metal Ore Collection",
+  "c_furs.Name": "Fur Collection",
+  "c_feathers.Name": "Feather Collection",
+  "c_minerals.Name": "Rocks and Minerals Collection",
+  "c_spring.Name": "Spring Collection",
+  "c_paintingmap.Name": "Map of Florens",
+  "c_paintingsadcat.Name": "Portrait of a Sad Cat",
+  "c_paintings.Name": "Collection of Paintings"
+}

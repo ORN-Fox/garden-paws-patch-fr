@@ -1,1 +1,27 @@
-{"0.Tip":"Picking up Wood and Rocks from the ground doesn't take energy.\r","1.Tip":"Fishing doesn't take energy.\r","2.Tip":"Picking plant fiber from bushes doesn't take energy.\r","3.Tip":"If you don't harvest a home grown plant, it wont die. But be careful, the soil will dissappear.","4.Tip":"When it rains you don't need to water your crops.\r","5.Tip":"You can break a geode open at an anvil when holding it.\r","6.Tip":"You can tame bunnies and cats in the wild.\r","7.Tip":"There are more than 250 appearance items to collect.\r","8.Tip":"If you pass out there is no penalty.\r","9.Tip":"You can take a screenshot by clicking \"F11\" to enter your drone camera.","10.Tip":"Cooked items like grilled fish restore energy when eaten. \r","11.Tip":"You can do a dance emote by clicking \"K\".","12.Tip":"You can do a dab emote by clicking \"J\".","13.Tip":"You can do a wow emote by clicking \"O\".","14.Tip":"You can sit by clicking \"C\".","15.Tip":"There's a secret inside every shooting star.\r","16.Tip":"Different workstations are used to craft different items. \r","17.Tip":"You can craft items in your crafting menu by clicking \"T\".","18.Tip":"Your grandparents are having a great time travelling the world. \r","19.Tip":"Frank manages all the construction work in town, including upgrades.","20.Tip":"You can toggle \"Grid Placement\" by holding Alt or going into your settings. ","21.Tip":"You can link your twitch account in the settings menu. Any viewers that type in chat for the last 6 minutes will appear as customers in your shop.\r","22.Tip":"You can play offline or online with up to 4 people.\r","23.Tip":"You can tame and raise animals including rabbits and chicks.\r","24.Tip":"You can change any of the bound keys in the control settings in the main menu \"esc\"."}
+{
+  "0.Tip": "Picking up Wood and Rocks from the ground doesn't take energy.\r",
+  "1.Tip": "Fishing doesn't take energy.\r",
+  "2.Tip": "Picking plant fiber from bushes doesn't take energy.\r",
+  "3.Tip": "If you don't harvest a home grown plant, it wont die. But be careful, the soil will dissappear.",
+  "4.Tip": "When it rains you don't need to water your crops.\r",
+  "5.Tip": "You can break a geode open at an anvil when holding it.\r",
+  "6.Tip": "You can tame bunnies and cats in the wild.\r",
+  "7.Tip": "There are more than 250 appearance items to collect.\r",
+  "8.Tip": "If you pass out there is no penalty.\r",
+  "9.Tip": "You can take a screenshot by clicking \"F11\" to enter your drone camera.",
+  "10.Tip": "Cooked items like grilled fish restore energy when eaten. \r",
+  "11.Tip": "You can do a dance emote by clicking \"K\".",
+  "12.Tip": "You can do a dab emote by clicking \"J\".",
+  "13.Tip": "You can do a wow emote by clicking \"O\".",
+  "14.Tip": "You can sit by clicking \"C\".",
+  "15.Tip": "There's a secret inside every shooting star.\r",
+  "16.Tip": "Different workstations are used to craft different items. \r",
+  "17.Tip": "You can craft items in your crafting menu by clicking \"T\".",
+  "18.Tip": "Your grandparents are having a great time travelling the world. \r",
+  "19.Tip": "Frank manages all the construction work in town, including upgrades.",
+  "20.Tip": "You can toggle \"Grid Placement\" by holding Alt or going into your settings. ",
+  "21.Tip": "You can link your twitch account in the settings menu. Any viewers that type in chat for the last 6 minutes will appear as customers in your shop.\r",
+  "22.Tip": "You can play offline or online with up to 4 people.\r",
+  "23.Tip": "You can tame and raise animals including rabbits and chicks.\r",
+  "24.Tip": "You can change any of the bound keys in the control settings in the main menu \"esc\"."
+}
