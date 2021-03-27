@@ -1,6 +1,6 @@
 {
   "m_welcometoflorens.Subject": "Bienvenue à Florens",
-  "m_welcometoflorens.Letter": "Bienvenue à Florens ! \n \nNotre ville est petite pour le moment, mais avec votre aide nous allons la faire grandir ! Il y a des gens qui veulent rejoindre notre ville tous les jours, mais nous avons d'abord besoin de maisons et de magasins pour eux. \n \nTout le monde est ravi de vous rencontrer ! Nous espérons que vous apprécierez votre séjour ici.",
+  "m_welcometoflorens.Letter": "Bienvenue à Florens ! \n \nNotre ville est petite pour le moment, mais avec ton aide nous allons la faire grandir ! Il y a des gens qui veulent rejoindre notre ville tous les jours, mais nous avons d'abord besoin de maisons et de magasins pour eux. \n \nTout le monde est ravi de te rencontrer ! Nous espérons que tu appréciera ton séjour ici.",
   "m_grandparents.Subject": "Bien installé ?",
   "m_grandparents.Letter": "Hé gamin, \n \nExplorez ! Tu trouvera beaucoup de fleurs et de graines. \n \nUne fois que tu aura des graines, utilisez la houe pour creuser un trou, puis plantez la graine. Assurez-toi de l'arroser tous les jours pour qu'elle puisse pousser. Vend ensuite les fleurs dans ta boutique pour faire du profit. \n",
   "m_treefarm.Subject": "Définition des racines",
@@ -40,7 +40,7 @@
   "m_clearedruinsdungeon.Subject": "Tout est clair aux ruines !",
   "m_clearedruinsdungeon.Letter": "L'entrée des ruines a été dégagée mais ils ne peuvent pas aller trop loin car il y a des portes et des passages secrets partout ! Parle au vagabond, peut-être qu'il sait quelque chose à ce sujet.",
   "m_shoulddoblacksmith.Subject": "Forge",
-  "m_shoulddoblacksmith.Letter": "Nous cherchons toujours à agrandir la ville, notre prochaine étape est de trouver un forgeron. Parlez à Frank pour en construire un. Si nous avons un forgeron, vous obtiendrez de nouveaux outils pour travailler la terre." ,
+  "m_shoulddoblacksmith.Letter": "Nous cherchons toujours à agrandir la ville, notre prochaine étape est de trouver une forge. Parlez à Frank pour en construire une. Si nous avons un forge, tu obtiendra de nouveaux outils pour travailler la terre." ,
   "m_meetkieran.Subject": "Nouveau camping",
   "m_meetkieran.Letter": "Je me demande si tu voulais m'aider. Je m'appelle Kieran et j'ai trouvé l'endroit idéal pour installer un camping pour attirer des visiteurs dans la région, mais j'ai besoin de nettoyer un peu la zone . \n \nRendez-vous demain dans ma cabane derrière la cascade et nous pourrons commencer.",
   "m_kieranfirepits.Subject": "Tentes et tout",
@@ -108,7 +108,7 @@
   "m_beetlehabitat.Subject": "Trop de merde ?",
   "m_beetlehabitat.Letter": "Tu as trop de fumier ? Il n'y a rien de tel ! \n \nJ'ai une utilisation parfaite pour ton fumier ! Voici un plan pour un habitat de coléoptères et une alimentation pour coléoptères. Lorsque tu as ces petites bestioles, ils courront partout et ramasseront tout le fumier près de leur habitat pour toi.",
   "m_animalstotame.Subject": "Se faire de nouveaux amis",
-  "m_animalstotame.Letter": "Il y a beaucoup d'animaux autour des îles. Avec un peu d'amour, tu peut les apprivoiser, en utilisant les bons objets. \n \nSi tu rencontre des renards, tu peut les apprivoiser avec de petits poissons. Furet comme la laine, les ours comme le miel et les cerfs comme les hautes herbes. \n \nTu as besoin d'une maison convenable pour eux. Tu peut acheter un plan auprès d'un vendeur de plans lorsque vous en voyez un.",
+  "m_animalstotame.Letter": "Il y a beaucoup d'animaux autour des îles. Avec un peu d'amour, tu peut les apprivoiser, en utilisant les bons objets. \n \nSi tu rencontre des renards, tu peut les apprivoiser avec de petits poissons. Furet comme la laine, les ours comme le miel et les cerfs comme les hautes herbes. \n \nTu as besoin d'une maison convenable pour eux. Tu peut acheter un plan auprès d'un vendeur de plans lorsque tu en vois un.",
   "m_barnanimals.Subject": "Il fait froid dehors",
   "m_barnanimals.Letter": "Si tu vois des animaux dans le froid et que tu veux leur donner une maison. Tu peux construire cette grange pour chevaux, moutons, alpagas, chèvres et hippopotames. \n \nUne fois que tu as construit le séchoir, place-y simplement de l'herbe haute pour la faire sécher pendant la nuit. Une fois que tu as du foin, tu peux commencer à nourrir tous les animaux de l'étable.",
   "m_beetlelegendary50.Subject": "À mi-chemin de l'or",
@@ -141,6 +141,6 @@
   "m_bedroom.Letter": "J'ai terminé l'agrandissement de ta chambre à coucher. J'espère que tu l'aimera. \n \nIl semble assez vide, voici un établi pour que tu puisse commencer à fabriquer des meubles pour remplir ta maison.",
   "m_kitchen.Subject": "Une nouvelle cuisine !",
   "m_kitchen.Letter": "J'ai terminé l'agrandissement de ta cuisine ! J'espère qu'elle couvrira tous tes besoins en cuisine.",
-  "m_abbyseasonalpie.Subject": "Une tarte rien que pour vous !",
+  "m_abbyseasonalpie.Subject": "Une tarte rien que pour toi !",
   "m_abbyseasonalpie.Letter": "Salut ! J'ai fini de transformer les citrouilles que tu m'as amenées en tartes ! J'ai gardé les meilleures pour toi ! \n \nNe les mange pas toutes en même temps ! À bientôt !"
 }
