@@ -1,8 +1,10 @@
 ![Garden Paws game cover](https://cdn.akamai.steamstatic.com/steam/apps/840010/capsule_616x353.jpg?t=1585380242)
 
-# Garden Paws - Patch FR **in progress**
+# Garden Paws - Patch FR **in progress** for **v1.4.1t**
 
-French translations for [Pimitchu](https://www.twitch.tv/pimitchu) player of Garden Paws game
+French translations for [Pimitchu](https://www.twitch.tv/pimitchu) player of Garden Paws game.
+
+Do not hesitate to support her!
 
 # Instructions for applying the patch
 
