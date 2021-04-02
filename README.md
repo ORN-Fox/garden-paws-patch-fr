@@ -8,12 +8,13 @@ Do not hesitate to support her!
 
 # Instructions for applying the patch
 
-1. Open the folder containing the game
-2. Open the `Localization` folder located in the `StreamingAssets` folder
-3. Copy the `fr` folder previously downloaded into the `Localization` folder
-4. Start the game, select `FR` in the menu of available languages ​​from the `Localization` button at the bottom left of the home screen. And validate.
-5. Start the game, select `FR` in the menu of available languages ​​from the `Localization` button at the bottom left of the home screen. Validate, the game must be translated otherwise start over from step 1.
-6. Enjoy ! 😄😎
+1. Download the appropriate version for your game version, then extract the patch from the archive
+2. Open the folder containing the game
+3. Open the `Localization` folder located in the `StreamingAssets` folder
+4. Copy the `fr` folder previously downloaded into the `Localization` folder
+5. Start the game, select `FR` in the menu of available languages ​​from the `Localization` button at the bottom left of the home screen. And validate.
+6. Start the game, select `FR` in the menu of available languages ​​from the `Localization` button at the bottom left of the home screen. Validate, the game must be translated otherwise start over from step 1.
+7. Enjoy ! 😄😎
 
 # Did you find an error in the translations?
 
